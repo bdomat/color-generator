@@ -1,19 +1,20 @@
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  transition: 0.5s ease-out;
 }
 
-.color-value{
-background-color: black;
-color: white;
-padding: 10px;
-text-align: center;
-vertical-align: center;
-border-radius: 7px;
-border: 3px solid grey;
-font-weight: 600;
-font-size: 1.2rem;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+.color-value {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  vertical-align: center;
+  border-radius: 7px;
+  border: 3px solid grey;
+  font-weight: 600;
+  font-size: 1.2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
